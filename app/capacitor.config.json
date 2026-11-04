@@ -1,0 +1,13 @@
+{
+  "appId": "com.planetazafios.dos",
+  "appName": "Zafios II",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#120c28",
+    "allowMixedContent": false,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 1500, "backgroundColor": "#120c28" }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "El Planeta de los Zafios II",
+  "short_name": "Zafios II",
+  "description": "Misión Amiguetes on Paradise. El videojuego del libro de Marco Antonio Saborido Domínguez.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#120c28",
+  "theme_color": "#1a1238",
+  "lang": "es",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
